@@ -1,0 +1,3 @@
+variable "exercise" {
+  type = map
+}
